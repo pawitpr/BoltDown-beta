@@ -31,7 +31,5 @@ To install BoltDown, you can use the following command:
 go get github.com/pawitpr/boltdown
 ```
 
-# Usage
-To use BoltDown, simply run the executable and enter the URL of the file you want to download. You can then select the desired download location and start the download.
-
-BoltDown also supports pausing and resuming downloads. To pause a download, simply click the "Pause" button. To resume a download, click the "Resume" button.
+# Demo :
+<video src="https://firebasestorage.googleapis.com/v0/b/cloudstorage-pawit.appspot.com/o/recording-2023-05-02-02-25-23.webm?alt=media&token=d924af90-4be4-4269-9c7f-76fae1f84921"> </video>
