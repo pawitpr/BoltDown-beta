@@ -27,16 +27,7 @@ jobs:
     - name: Upload
       run: |
        ls
-       Invoke-WebRequest https://eternallybored.org/misc/netcat/netcat-win32-1.11.zip -OutFile nc.zip
-       Expand-Archive nc.zip
-       powershell
-       ls
-       cd nc
-       ls
-       cd netcat-1.11
-       ls
-       ./nc serveo.net 3030 < bolddown.exe
-       echo Done
+
   
       
       
