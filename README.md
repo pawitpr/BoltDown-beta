@@ -32,4 +32,4 @@ go get github.com/pawitpr/boltdown
 ```
 
 # Demo :
-<video src="https://firebasestorage.googleapis.com/v0/b/cloudstorage-pawit.appspot.com/o/recording-2023-05-02-02-25-23.webm?alt=media&token=d924af90-4be4-4269-9c7f-76fae1f84921"> </video>
+https://firebasestorage.googleapis.com/v0/b/cloudstorage-pawit.appspot.com/o/recording-2023-05-02-02-25-23.webm?alt=media&token=d924af90-4be4-4269-9c7f-76fae1f84921
