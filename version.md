@@ -6,7 +6,7 @@ Please note that our project is currently under development, which means that it
 
 | OS             | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Window-x64| [Here](https://google.com)  |
+| Window-x64| [Here](https://vomzsdfgshlblrdymrtl.supabase.co/storage/v1/object/public/pawit/BoltDown.exe?t=2023-05-05T20%3A30%3A06.128Z)  |
 | Window-32 | Not available 
 | Linux-x64| [Here](https://firebasestorage.googleapis.com/v0/b/cloudstorage-pawit.appspot.com/o/BoltDown?alt=media&token=1f3838d2-7831-49c4-9380-2232a013a408)  |
 | Linux-arm| you can try but not [compatible](compatible) |
@@ -25,3 +25,4 @@ Download the linux compiled file [this](https://firebasestorage.googleapis.com/v
     ./BoltDown
 
 ```
+# Mac os releases comming soon 
