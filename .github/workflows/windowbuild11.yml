@@ -27,7 +27,7 @@ jobs:
     - name: Upload
       run: |
        ls
-
+       pwd
   
       
       
