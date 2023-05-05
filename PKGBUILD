@@ -1,7 +1,4 @@
-# Maintainer: aimileus <me at aimileus dot nl>
-# Maintainer: Maciej Borzecki <maciek.borzecki@gmail.com>
-# Contributor: Timothy Redaelli <timothy.redaelli@gmail.com>
-# Contributor: Zygmunt Krynicki <me at zygoon dot pl>
+
 
 pkgname=snapd
 pkgdesc="Service and tools for management of snap packages."
